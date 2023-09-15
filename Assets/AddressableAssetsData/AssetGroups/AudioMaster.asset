@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: AudioMaster
+  m_EditorClassIdentifier: 
+  m_GroupName: AudioMaster
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 6e8ecd8e63d8cea49b40ccb509aaa4f7
+  m_SerializeEntries:
+  - m_GUID: 37af0d91aacfb43448d9ea79a226e537
+    m_Address: Assets/FMODBanks/Master.assets.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4aba6637a13c2f043bbeff4092a4cc64
+    m_Address: Assets/FMODBanks/Master.strings.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bd0e02e4e68fc3445b18e1d54eee507a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: c23e682edf1a05c46aa9066ecfa9ff58, type: 2}
+    - {fileID: 11400000, guid: c40eee0965b419a42b8b4c9be65d07be, type: 2}

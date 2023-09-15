@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: AudioMetaData
+  m_EditorClassIdentifier: 
+  m_GroupName: AudioMetaData
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 0f414ccc6a3d4f6418626c525dcdf194
+  m_SerializeEntries:
+  - m_GUID: e85e989609020474f96bf46af9faae50
+    m_Address: Assets/FMODBanks/Master.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d231ef9291887b246bd290ced1d05da7
+    m_Address: Assets/FMODBanks/FX.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f503a3fd81d42974a9ec7ce861e3592f
+    m_Address: Assets/FMODBanks/Music.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bd0e02e4e68fc3445b18e1d54eee507a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 836d6164d7e4c2d4e89233a4af162281, type: 2}
+    - {fileID: 11400000, guid: dcfe5095d7a5a4b439cca26c8dc331c8, type: 2}

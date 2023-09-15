@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{1e721de3-29cb-4e6f-a5e1-341de5d65931}">
+		<property name="assetPath">
+			<value>Music/a-long-way-166385.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>273.08408163265307</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{895a9403-fb14-481e-8fef-86ef2c11f872}</destination>
+		</relationship>
+	</object>
+</objects>

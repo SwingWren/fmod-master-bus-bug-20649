@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{fb152c61-0aed-4e85-a221-832e0cdbd77f}">
+		<property name="assetPath">
+			<value>FX/ding-idea-40142.mp3</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>24</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>2.976</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{895a9403-fb14-481e-8fef-86ef2c11f872}</destination>
+		</relationship>
+	</object>
+</objects>

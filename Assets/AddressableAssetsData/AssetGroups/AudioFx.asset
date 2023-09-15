@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: AudioFx
+  m_EditorClassIdentifier: 
+  m_GroupName: AudioFx
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 807a12dcd0a99404bbbabab7fe119e95
+  m_SerializeEntries:
+  - m_GUID: 96493da180166af489d26e8a95405f68
+    m_Address: Assets/FMODBanks/FX.assets.bytes
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: bd0e02e4e68fc3445b18e1d54eee507a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 0ade8c807d85827459babce3ebed8bfc, type: 2}
+    - {fileID: 11400000, guid: c88b7c759ee1ac846b588cce1114d74e, type: 2}

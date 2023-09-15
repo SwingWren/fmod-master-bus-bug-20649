@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{2048d588-d4cd-40ca-99c1-2cfeb6506e7a}">
+		<property name="assetPath">
+			<value>FX/boom-geomorphism-cinematic-trailer-sound-effects-123876.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>15.912000000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{895a9403-fb14-481e-8fef-86ef2c11f872}</destination>
+		</relationship>
+	</object>
+</objects>

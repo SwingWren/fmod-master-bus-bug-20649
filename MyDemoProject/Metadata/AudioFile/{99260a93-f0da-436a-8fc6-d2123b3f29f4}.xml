@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{99260a93-f0da-436a-8fc6-d2123b3f29f4}">
+		<property name="assetPath">
+			<value>FX/thunder-25689.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>24</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>24.768000000000001</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{895a9403-fb14-481e-8fef-86ef2c11f872}</destination>
+		</relationship>
+	</object>
+</objects>
